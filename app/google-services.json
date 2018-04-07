@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94537568061",
+    "firebase_url": "https://singinandsingup.firebaseio.com",
+    "project_id": "singinandsingup",
+    "storage_bucket": "singinandsingup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94537568061:android:1e5801e1dd73313e",
+        "android_client_info": {
+          "package_name": "com.codedroid.singinandsingup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94537568061-cdiafi5b4opvqvh0vglohu8tsko8er3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codedroid.singinandsingup",
+            "certificate_hash": "8c3234db512c8341ff5fbc4f0c7121818b1679ae"
+          }
+        },
+        {
+          "client_id": "94537568061-v0g7qliq6p4tcmd03v6n7rs5n35vevcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0bebMOiWN1Xs-fNecVK5Zyx0j2uXkQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94537568061-v0g7qliq6p4tcmd03v6n7rs5n35vevcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

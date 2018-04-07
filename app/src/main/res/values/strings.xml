@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">SingInAndSingUp</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="register">Register</string>
+    <string name="go_back">go back</string>
+    <string name="plz_login">please login to track your moving</string>
+    <string name="login">Login</string>
+    <string name="sign_up_to_book">sign up to book and get information</string>
+    <string name="sign_up">Register User</string>
+    <string name="please_file_all">please file all the fields to get registered</string>
+
+    <string name="please_login">please login to view job status and track</string>
+    <string name="email_address">email address</string>
+    <string name="full_name">full name</string>
+    <string name="phone_number">phone number</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="city">city</string>
+
+    <string name="add_photo">Add Photo!</string>
+
+    <string name="authentication_with">Authentication With: </string>
+    <string name="inbox_verification">Check Your Email Inbox for a Verification Link</string>
+    <string name="forget_pass">Forget Password</string>
+    <string name="resend_ver_email">Resend Verification Email</string>
+
+    <string name="please_enter_your_name">please enter your name!</string>
+
+    <string name="please_enter_your_email">please enter your email address!</string>
+    <string name="please_check_your_email">please check your email address!</string>
+    <string name="please_enter_your_pass">please enter your password!</string>
+    <string name="please_check_your_pass">please check your password!</string>
+    <string name="please_enter_your_confirm_pass">please enter your confirm password!</string>
+    <string name="your_password_do_not_match">your password do not match</string>
+    <string name="please_enter_your_phone">please enter your phone number!</string>
+    <string name="please_enter_your_city">please enter your city!</string>
+
+    <string name="sent_verification">sent verification email</string>
+    <string name="could_not_sent_verification">could not send verification email</string>
+    <string name="could_not_register">could not register</string>
+    <string name="check_your_email_link">check your email for a verification link!</string>
+
+    <string name="login_failed">login failed</string>
+    <string name="register_failed">register failed</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_out">Sing Out</string>
+    <string name="remember">Remember Me</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="Confirm">Confirm</string>
+    <string name="change_password">Change Password</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="reset_password">Reset Password</string>
+
+
+    <!-- Firebase Database Nodes -->
+    <string name="dbnode_users">users</string>
+    <string name="dbnode_chatrooms">chatrooms</string>
+
+
+    <!-- Firebase Database Fields -->
+    <string name="field_chatroom_name">chatroom_name</string>
+    <string name="field_creator_id">creator_id</string>
+    <string name="field_security_level">security_level</string>
+    <string name="field_email">email</string>
+    <string name="field_name">name</string>
+    <string name="field_phone">phone</string>
+    <string name="field_profile_image">profile_image</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_chatroom_id">chatroom_id</string>
+    <string name="field_chatroom_messages">chatroom_messages</string>
+    <string name="field_message">message</string>
+    <string name="field_timestamp">timestamp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+
+    <!-- Dialog Names -->
+    <string name="dialog_change_photo">ChangePhotoDialog</string>
+    <string name="dialog_new_chatroom">NewChatroomDialog</string>
+    <string name="please_check_your_name">please check your name</string>
+
+
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="tabian_consulting_logo">Tabian Consulting Logo</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="employee_dashboard">Employee Dashboard</string>
+    <string name="this_week_s_initiatives">This week\'s initiatives</string>
+    <string name="employee_schedule">Employee Schedule</string>
+    <string name="company_culture">Company Culture</string>
+    <string name="tabian_consulting_sales_chart">Tabian Consulting Sales Chart</string>
+    <string name="sign_out">Sign out</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="sent_password_reset">sent password reset to email</string>
+
+</resources>
